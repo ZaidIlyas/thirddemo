@@ -1,4 +1,8 @@
 new cahnges
 
+<<<<<<< HEAD
 
 updated for merge commit
+=======
+up
+>>>>>>> devtest
